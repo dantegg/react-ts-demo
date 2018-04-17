@@ -1,0 +1,5 @@
+const beta = {}
+
+export {
+    beta
+}
